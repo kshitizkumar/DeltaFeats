@@ -1,0 +1,36 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Del_Spec.aux
+The style file: IEEEbib.bst
+Database file #1: strings.bib
+You're missing a field name---line 90 of file strings.bib
+ : 
+ : %  remarks       = {cited in \cite{cslu:esca98mm}},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 163 of file strings.bib
+ : 
+ : year = "1995"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 223 of file strings.bib
+ : note = "Ph.D. Proposal, Dept. of ECE, Carnegie Mellon University, http://www.ece.cmu.edu/~kshitizk/Thesis/Proposal.pdf"
+ :                                                                                                                        ;
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 321 of file strings.bib
+ : 
+ : year = "1995"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 432 of file strings.bib
+ : @article{VTS
+ :             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 439 of file strings.bib
+ : @article{Rasta
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 446 of file strings.bib
+ : @article{Boll79
+ :                ,
+I'm skipping whatever remains of this entry
+Warning--empty title in AFE
+(There were 7 error messages)

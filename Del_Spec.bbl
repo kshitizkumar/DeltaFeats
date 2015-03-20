@@ -1,0 +1,49 @@
+\begin{thebibliography}{1}
+
+\bibitem{SLP}
+X.~Huang, A.~Acero, and H-W Won,
+\newblock {\em Spoken Language Processing: A Guide to Theory, Algorithm, and
+  System Development},
+\newblock Prentice-Hall, Inc., Upper Saddle River, NJ, USA, 2001.
+
+\bibitem{VTS}
+P.~J. Moreno, B.~Raj, and R.~M. Stern,
+\newblock ``A vector taylor series approach for environment-independent speech
+  recognition,''
+\newblock {\em Proc. ICASSP}, 1996.
+
+\bibitem{Rasta}
+H.~Hermansky and N.~Morgan,
+\newblock ``{RASTA processing of speech},''
+\newblock in {\em IEEE Transactions on Speech and Acoustics}, Oct. 1994,
+  vol.~2, pp. 587--589.
+
+\bibitem{Boll79}
+S.~Boll,
+\newblock ``Suppression of acoustic noise in speech using spectral
+  subtraction,''
+\newblock {\em IEEE Transactions on ASSP}, vol. 27, no. 2, pp. 113--120, Apr
+  1979.
+
+\bibitem{LIFE10}
+K.~Kumar and R.~M. Stern,
+\newblock ``Maximum-likelihood-based cepstral inverse filtering for blind
+  speech dereverberation,''
+\newblock {\em in Proc. IEEE ICASSP}, 2010.
+
+\bibitem{AFE}
+ETSI: Advanced Front-end, ETSI Doc. No. ES 202 050.
+
+\bibitem{PNCC10}
+C.~Kim and R.~M. Stern,
+\newblock ``Feature extraction for robust speech recognition based on
+  maximizing the sharpness of the power distribution and on power flooring,''
+\newblock {\em in Proc. IEEE ICASSP}, 2010.
+
+\bibitem{Furui86}
+S.~Furui,
+\newblock ``Speaker-independent isolated word recognition based on emphasized
+  spectral dynamics,''
+\newblock {\em Proc. ICASSP}, 1986.
+
+\end{thebibliography}
